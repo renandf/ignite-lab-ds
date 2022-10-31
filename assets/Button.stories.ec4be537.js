@@ -1,0 +1,2 @@
+import{B as t}from"./Button.a36e99c3.js";import"./index.module.b3bc331a.js";import"./index.6a540dfa.js";import"./iframe.dd49efe7.js";import"./clsx.m.256e9345.js";import"./jsx-runtime.55efc8e4.js";const s={title:"Components/Button",component:t,args:{children:"Submit"},argTypes:{}},i={},a=["Default"];export{i as Default,a as __namedExportsOrder,s as default};
+//# sourceMappingURL=Button.stories.ec4be537.js.map
